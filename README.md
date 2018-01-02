@@ -1,4 +1,9 @@
 # isynnode
+
+WARNING!!!! This software is deprecated, for ISY running firmware 5.0.X use Plyglot v2 [Nest Poly](http://github.com/exking/udi-nest2-poly) instead!
+
+---
+
 Simple nodes project that allows ISY home automation system to integrate with the NEST thermostat
 
 It's NODE.JS now so you'll need to make sure that your Pi has it. To check just run this command:
